@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.pumper-data/
+test-results/
+*.log
